@@ -1,34 +1,34 @@
 // INI SC MASIH ADA BUG YA FIX IN AJA
 // BASE ILMANHDYT
-// SC ORI HYZER
-// CREATOR KRIZYN OFC
-// RECODE BY OSCAR OFC
+// SC ORI KRIS OFC
+// CREATOR KRIS OFC
+// RECODE BY KRISS OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404'] 
-global.mods = ['6285850539404'] 
-global.prems = ['6285850539404'] 
+global.owner = ['62882007324217'] 
+global.mods = ['62882007324217'] 
+global.prems = ['62882007324214'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ Jarot offcঔৣ꧂'
-global.numberowner = '6285850539404',
-global.instagram = 'https://instagram.com/Jarotr_'
-global.github = 'https://github.com/Alpiii22'
-global.Youtube = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
-global.dana = '085850539404'
-global.pulsa = '085850539404'
-global.gopay = '085850539404'
+global.nameowner = 'ᴹᴿ᭄ Kris offcঔৣ꧂'
+global.numberowner = '62882007324217',
+global.instagram = 'https://instagram.com/KrisHost_'
+global.github = 'https://github.com/wahyuricky737'
+global.Youtube = 'https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg'
+global.sc = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQc4NYBQ'
+global.ss = 'https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg'
+global.sss = 'https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg'
+global.yt = 'https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg'
+global.dana = '0882007324217'
+global.pulsa = '0882007324217'
+global.gopay = '085#########'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Darkbotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
-global.web = 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/Jarotr_'
-global.pulsa = '085850539404'
+global.namebot = '❋ཻུ۪۪⸙Kriszbotz-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com/KzwsfEw4VXQ98qk5USfOLw'
+global.web = 'https://youtube.com/channel/UCL0sl0mTiIxL-qjiM9oQwrg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/kris01_Real_'
+global.pulsa = '085786211623'
 global.nomer = 'https://wa.me/6285850539404' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
@@ -46,8 +46,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙OSCAR-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝐉𝐚𝐫𝐨𝐭_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ 𝐉𝐚𝐫𝐨𝐭 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜKrisz_𝙊𝙛𝙛cོ1꧅'
+global.wm3 = 'ᯤ Krisz 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Darkbotz'
-global.author = '@Jarot'
+global.packname = 'Kriszbotz'
+global.author = '@Krisz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
